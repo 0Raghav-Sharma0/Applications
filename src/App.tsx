@@ -4,7 +4,6 @@ import { AppProvider, useApp } from './context/AppContext';
 import { Layout } from './components/Layout/Layout';
 import { Home } from './pages/Home';
 import { Trending } from './pages/Trending';
-import { Create } from './pages/Create';
 import { Contribute } from './pages/Contribute';
 import { Discussions } from './pages/Discussions';
 import { Profile } from './pages/Profile';
