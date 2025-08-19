@@ -22,7 +22,6 @@ const AppContent: React.FC = () => {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/trending" element={<Trending />} />
-          <Route path="/create" element={<Create />} />
           <Route path="/contribute" element={<Contribute />} />
           <Route path="/discussions" element={<Discussions />} />
           <Route path="/profile" element={<Profile />} />
